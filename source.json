@@ -1,0 +1,38 @@
+{
+  "name": "ClipMI",
+  "subtitle": "Rilis ClipMI untuk iPhone",
+  "description": "Source resmi ClipMI iOS. Tambahkan di SideStore untuk memasang dan memperbarui ClipMI.",
+  "iconURL": "https://raw.githubusercontent.com/AndreLimaiDev/clipmi-ios-releases/main/icon.png",
+  "website": "https://github.com/AndreLimaiDev/clipmi-ios-releases",
+  "tintColor": "#12A884",
+  "apps": [
+    {
+      "name": "ClipMI",
+      "bundleIdentifier": "id.clipmi.ios",
+      "developerName": "Andre Lima",
+      "subtitle": "Clipping kajian jadi klip vertikal",
+      "localizedDescription": "Clipping kajian dan ceramah menjadi klip vertikal 9:16: unduh dari YouTube atau galeri, transkrip, analisis AI, editor subtitle dan sampul, lalu render di iPhone. Semua data tersimpan di HP, tanpa server dan tanpa login.",
+      "iconURL": "https://raw.githubusercontent.com/AndreLimaiDev/clipmi-ios-releases/main/icon.png",
+      "tintColor": "#12A884",
+      "category": "photo-video",
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSPhotoLibraryAddUsageDescription": "ClipMI menyimpan video klip hasil render ke Foto."
+        }
+      },
+      "versions": [
+        {
+          "version": "0.0.1",
+          "buildVersion": "1",
+          "date": "2026-11-23",
+          "localizedDescription": "Rilis pertama lewat SideStore: ikon aplikasi, label Terbit, menu ⋯ hasil render, filter Belum dijadwalkan, pembaruan yt-dlp, cari transkrip, kotak sorot, crop template.",
+          "downloadURL": "https://github.com/AndreLimaiDev/clipmi-ios-releases/releases/download/v0.0.1-1/ClipMI-0.0.1-1.ipa",
+          "size": 52791878,
+          "minOSVersion": "16.0"
+        }
+      ]
+    }
+  ],
+  "news": []
+}
