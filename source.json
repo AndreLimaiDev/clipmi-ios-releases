@@ -24,6 +24,15 @@
       "versions": [
         {
           "version": "0.0.1",
+          "buildVersion": "30",
+          "date": "2026-11-24",
+          "localizedDescription": "Tampilan asli iOS: menu ⋯ bawaan iOS, tahan kartu klip untuk lembar aksi, dialog konfirmasi dan panel bawah asli (bisa diusap tutup), pemilih tanggal & jam iOS, getaran haptik, usap dari tepi kiri untuk kembali. iPad: bisa diputar, video dan pratinjau editor di samping saat mendatar.",
+          "downloadURL": "https://github.com/AndreLimaiDev/clipmi-ios-releases/releases/download/v0.0.1-30/ClipMI-0.0.1-30.ipa",
+          "size": 52421191,
+          "minOSVersion": "16.0"
+        },
+        {
+          "version": "0.0.1",
           "buildVersion": "1",
           "date": "2026-11-23",
           "localizedDescription": "Rilis pertama lewat SideStore: ikon aplikasi, label Terbit, menu ⋯ hasil render, filter Belum dijadwalkan, pembaruan yt-dlp, cari transkrip, kotak sorot, crop template.",
