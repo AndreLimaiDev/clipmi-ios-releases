@@ -24,6 +24,15 @@
       "versions": [
         {
           "version": "0.0.1",
+          "buildVersion": "33",
+          "date": "2026-11-28",
+          "localizedDescription": "Panel bawah dibuka setengah layar; angka nol di tab disembunyikan; tombol ⋯ transkrip rapi; tempel balasan ChatGPT lebih toleran (kutip lengkung) dengan centang terbaca; Paket Standar Tim bisa dipilih isinya; centang terbit di kartu tanggal Jadwal (hijau semua, kuning sebagian).",
+          "downloadURL": "https://github.com/AndreLimaiDev/clipmi-ios-releases/releases/download/v0.0.1-33/ClipMI-0.0.1-33.ipa",
+          "size": 52459572,
+          "minOSVersion": "16.0"
+        },
+        {
+          "version": "0.0.1",
           "buildVersion": "32",
           "date": "2026-11-24",
           "localizedDescription": "Sakelar Rapikan audio saat render di Pengaturan › Render, bawaannya mati supaya audio yang sudah bagus tidak turun kualitasnya. Nyalakan hanya untuk audio yang bising.",
